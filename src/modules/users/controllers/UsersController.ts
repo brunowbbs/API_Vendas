@@ -18,4 +18,6 @@ export default class UsersController {
 
     return response.json({ user });
   }
+
+
 }
